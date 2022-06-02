@@ -1,8 +1,11 @@
-### Hello! :wave:
-My name is William Collins and I work as a Principal Cloud Architect at [Alkira.](https://alkira.com) To learn more about what I do, check out my [blog.](https://wcollins.io)
+### Hello, I'm William :wave:
+I work as a Principal Cloud Architect at [Alkira.](https://alkira.com) To learn more about what I do, check out my [blog.](https://wcollins.io)
 
-[![Twitter: wcollins502](https://img.shields.io/twitter/follow/wcollins502?style=social)](https://twitter.com/wcollins502)
-[![Linkedin Badge](https://img.shields.io/badge/-William-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-collins/)](https://www.linkedin.com/in/william-collins/)
-[![GitHub wcollins](https://img.shields.io/github/followers/wcollins?label=follow&style=social)](https://github.com/wcollins)
-\
-&nbsp;
+<p align="left"> <a href="https://twitter.com/wcollins502" target="blank"><img src="https://img.shields.io/twitter/follow/wcollins502?logo=twitter&style=for-the-badge" alt="wcollins502" /></a> </p>
+
+### Let's Connect
+<p align="left">
+<a href="https://twitter.com/wcollins502" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wcollins502" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/william-collins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="william-collins" height="30" width="40" /></a>
+<a href="/https://wcollins.io/index.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://wcollins.io/index.xml" height="30" width="40" /></a>
+</p>
