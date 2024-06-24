@@ -1,5 +1,5 @@
 ### Hello, I'm William :wave:
-I work as Director of Technical Evangelism at [Alkira.](https://alkira.com) To learn more about what I do, check out my [blog.](https://wcollins.io)
+I work as Director of Technical Evangelism at [Alkira](https://alkira.com) and host [The Cloud Gambit Podcast](https://www.thecloudgambit.com).
 
 ### Let's Connect
 <p align="left">
