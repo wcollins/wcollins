@@ -9,6 +9,7 @@ I work as Director of Technical Evangelism at [Itential](https://itential.com) a
 ![Linux](https://img.shields.io/badge/Linux-c10017?&logo=linux&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?&logo=python&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-5b4ee4?&logo=terraform&logoColor=white)
+![OpenTofu](https://img.shields.io/badge/OpenTofu-ffda19?&logo=opentofu&logoColor=white)
 
 ### Let's Connect
 <p align="left">
