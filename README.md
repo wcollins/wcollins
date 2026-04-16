@@ -4,12 +4,6 @@
 
 I'm Director of Technical Evangelism at [Itential](https://itential.com), host of [The Cloud Gambit Podcast](https://www.thecloudgambit.com), and I write about cloud, automation, and network engineering at [wcollins.io](https://wcollins.io).
 
-### 📝 Latest Content
-
-<!-- BLOG-POST-LIST:START -->- [Stop Giving Your AI Agents Root Shell](https://wcollins.io/posts/2026/stop-giving-ai-agents-root-shell/) <sub>Mar 31, 2026</sub>- [Vibe Coding Got Us Here. Can Spec-Driven Development Save Us?](https://wcollins.io/posts/2026/from-vibes-to-specs/) <sub>Mar 28, 2026</sub>- [Your MCP Stack is a JSON Nightmare. Gridctl Fixes It.](https://wcollins.io/posts/2026/introducing-gridctl/) <sub>Mar 23, 2026</sub>- [Are You Building AI Or Just Using It](https://wcollins.io/posts/2024/are-you-building-ai-or-just-using-it/) <sub>Nov 15, 2024</sub>- [Tesla Adapts Ethernet with Modified Transport Layer for Dojo](https://wcollins.io/posts/2024/tesla-adapts-ethernet-for-with-modified-transport-for-dojo/) <sub>Sep 5, 2024</sub><!-- BLOG-POST-LIST:END -->
-
-▶ [More on wcollins.io](https://wcollins.io) · 🎙️ [The Cloud Gambit Podcast](https://www.thecloudgambit.com)
-
 ### 🛠️ Tech Stack
 
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
