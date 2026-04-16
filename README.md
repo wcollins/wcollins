@@ -1,12 +1,6 @@
-<div align="right">
-
-![Profile Views](https://komarev.com/ghpvc/?username=wcollins&style=flat-square&color=58A6FF)
-
-</div>
-
 # Hey, I'm William 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=false&vCenter=true&width=500&lines=Director+of+Technical+Evangelism;Host+of+The+Cloud+Gambit+Podcast;DevOps+%7C+IaC+%7C+NetDevOps)](https://wcollins.io)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=false&vCenter=true&width=600&lines=Builder+%7C+Content+Creator+%7C+Podcaster;Living+at+the+intersection+of+Cloud%2C+Automation%2C+%26+AI)](https://wcollins.io)
 
 I'm Director of Technical Evangelism at [Itential](https://itential.com), host of [The Cloud Gambit Podcast](https://www.thecloudgambit.com), and I write about cloud, automation, and network engineering at [wcollins.io](https://wcollins.io).
 
@@ -20,9 +14,10 @@ I'm Director of Technical Evangelism at [Itential](https://itential.com), host o
 ### 🛠️ Tech Stack
 
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
@@ -30,48 +25,8 @@ I'm Director of Technical Evangelism at [Itential](https://itential.com), host o
 
 ### 🤝 Let's Connect
 
-<p align="left">
-  <a href="https://linkedin.com/in/william-collins" target="_blank" rel="noopener noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linkedin/white">
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/linkedin/0A66C2">
-      <img alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/0A66C2" height="30" width="30">
-    </picture>
-  </a>
-  &nbsp;
-  <a href="https://x.com/wcollins502" target="_blank" rel="noopener noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/white">
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/x/000000">
-      <img alt="X" src="https://cdn.simpleicons.org/x/000000" height="30" width="30">
-    </picture>
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/thecloudgambit" target="_blank" rel="noopener noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/instagram/white">
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/instagram/E4405F">
-      <img alt="Instagram" src="https://cdn.simpleicons.org/instagram/E4405F" height="30" width="30">
-    </picture>
-  </a>
-  &nbsp;
-  <a href="https://tiktok.com/thecloudgambit" target="_blank" rel="noopener noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tiktok/white">
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/tiktok/FF0050">
-      <img alt="TikTok" src="https://cdn.simpleicons.org/tiktok/FF0050" height="30" width="30">
-    </picture>
-  </a>
-  &nbsp;
-  <a href="https://wcollins.io" target="_blank" rel="noopener noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/rss/FFA500">
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/rss/FFA500">
-      <img alt="Blog RSS" src="https://cdn.simpleicons.org/rss/FFA500" height="30" width="30">
-    </picture>
-  </a>
-</p>
+<a href="https://linkedin.com/in/william-collins" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/linkedin.svg?color=white"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons/linkedin.svg?color=%230A66C2"><img alt="LinkedIn" src="https://api.iconify.design/simple-icons/linkedin.svg?color=%230A66C2" height="30" width="30"></picture></a>&nbsp;&nbsp;<a href="https://x.com/wcollins502" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/x.svg?color=white"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons/x.svg?color=%23000000"><img alt="X" src="https://api.iconify.design/simple-icons/x.svg?color=%23000000" height="30" width="30"></picture></a>&nbsp;&nbsp;<a href="https://instagram.com/thecloudgambit" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/instagram.svg?color=white"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons/instagram.svg?color=%23E4405F"><img alt="Instagram" src="https://api.iconify.design/simple-icons/instagram.svg?color=%23E4405F" height="30" width="30"></picture></a>&nbsp;&nbsp;<a href="https://tiktok.com/thecloudgambit" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/tiktok.svg?color=white"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons/tiktok.svg?color=%23FF0050"><img alt="TikTok" src="https://api.iconify.design/simple-icons/tiktok.svg?color=%23FF0050" height="30" width="30"></picture></a>&nbsp;&nbsp;<a href="https://wcollins.io" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/rss.svg?color=%23FFA500"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons/rss.svg?color=%23FFA500"><img alt="Blog RSS" src="https://api.iconify.design/simple-icons/rss.svg?color=%23FFA500" height="30" width="30"></picture></a>
 
 ### 🔥 Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=wcollins&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=wcollins&hide_border=true)](https://git.io/streak-stats)
