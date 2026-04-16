@@ -13,9 +13,9 @@ I work as Director of Technical Evangelism at [Itential](https://itential.com) a
 
 ### Let's Connect
 <p align="left">
-<a href="https://linkedin.com/in/william-collins" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="william-collins" height="30" width="40" /></a>
-<a href="https://x.com/wcollins502" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="wcollins502" height="30" width="40" /></a>
-<a href="https://instagram.com/thecloudgambit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="thecloudgambit" height="30" width="40" /></a>
-<a href="https://tiktok.com/thecloudgambit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tiktok.svg" alt="thecloudgambit" height="30" width="40" /></a>
-<a href="https://wcollins.io" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="blog" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/william-collins" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="william-collins" height="30" width="40" /></a>
+<a href="https://x.com/wcollins502" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="wcollins502" height="30" width="40" /></a>
+<a href="https://instagram.com/thecloudgambit" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="thecloudgambit" height="30" width="40" /></a>
+<a href="https://tiktok.com/thecloudgambit" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tiktok.svg" alt="thecloudgambit" height="30" width="40" /></a>
+<a href="https://wcollins.io" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="blog" height="30" width="40" /></a>
 </p>
