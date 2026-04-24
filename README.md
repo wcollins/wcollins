@@ -21,4 +21,4 @@ I'm Director of Technical Evangelism at [Itential](https://itential.com), host o
 
 ### 🔥 Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=wcollins&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=wcollins&theme=dark&hide_border=true)](https://git.io/streak-stats)
