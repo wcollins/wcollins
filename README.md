@@ -1,4 +1,4 @@
-# Hey, I'm William 👋
+# William Collins
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=000000&center=false&vCenter=true&width=600&lines=Builder+%7C+Content+Creator+%7C+Podcaster;Living+at+the+intersection+of+Cloud%2C+Automation%2C+%26+AI)](https://wcollins.io)
 
